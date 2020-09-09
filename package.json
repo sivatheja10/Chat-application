@@ -4,6 +4,7 @@
   "description": "Realtime chat application with rooms",
   "main": "server.js",
   "scripts": {
+    "now-start":"node .",
     "start": "node server",
     "dev": "nodemon server"
   },
